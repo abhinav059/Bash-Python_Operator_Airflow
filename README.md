@@ -1,4 +1,3 @@
-Here's a refined `README.md` file with explanations for **BashOperator** and **PythonOperator**, and a summary of your project without code snippets:
 
 ---
 
