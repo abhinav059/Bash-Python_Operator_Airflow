@@ -81,13 +81,3 @@ Both examples show how to define basic tasks in Airflow using different operator
    - Trigger the DAGs manually to see the output of each operator.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This `README` provides a concise description of Apache Airflow, the operators in use, and how to run your examples. You can further customize it with any additional information about the project or your environment.
-
-Let me know if you'd like any changes or additions!
